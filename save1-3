@@ -1,0 +1,103 @@
+<html>
+
+<head>
+
+    <title>qtachendo ramirez </title>
+
+</head>
+
+<body>
+    <center>
+        <h1> Bien venido
+    </center>
+    <h2> Bien venido 2
+        <h3> Bien venido la precuela
+            <h4> Bien venido la saga
+                <h5> Bien venido la biblia
+                    <h6> Bien venido
+
+                        <img src="./ramirez.jpeg" alt="">
+
+                        <video src="./“현대카드가 부르노“ 브루노 마스 I Bruno Mars Playlist.mp4" controls autoplay></video>
+<!--lista ordenada-->
+                        <ol> <h4>lista ordenada</h4>
+                            <li>lunes</li>
+                            <li>maartes</li>
+                            <li>miercoles</li>
+                            <li>jueves</li>
+                            <li>viernes</li>
+
+                        </ol>
+<!---lista desorenadas-->
+
+                        <ul  type="square">  
+                        
+                    
+                            <h4>lista desordenada</h4>
+                            <li>lunes</li>
+                            <li>maartes</li>
+                            <li>miercoles</li>
+                            <li>jueves</li>
+                            <li>viernes</li>
+                        </ul>
+                    <table border="1">
+                    <tr>
+                        <th><h1>Horario</h1>
+                        </th>
+                        <th><h1>Lunes</h1></th>
+                        <th><h1>Martes</h1></th>
+                        <th><h1>Miercoles</h1></th>
+                        <th><h1>Jueves</h1></th>
+                        <th><h1>Viernes</h1></th>
+                    </tr>
+                    <tr>
+                        <th>7:00-8:00</th>
+                        <td>Redes de computo</td>
+                        <td>Redes de computo</td>
+                        <td>Redes de computo</td>
+                        <td>Redes de computo</td>
+                        <td>Redes de computo</td>
+                    </tr>
+                    <tr>
+                        <th>8:00-9:00</th>
+                        <td>Fundamentos de datos</th>
+                        <td>Fundamentos de datos</th>
+                        <td>Fundamentos de datos</th>
+                        <td>Fundamentos de datos</th>
+                        <td>Fundamentos de datos</th>
+                    </tr>
+                    <tr>
+                        <th>9:00-10:00</th>
+                        <td>Algebra lineal</th>
+                        <td>Algebra lineal</th>
+                        <td>Algebra lineal</th>
+                        <td>Algebra lineal</th>
+                        <td>Algebra lineal</th>
+                    </tr>
+                    <tr>
+                        <th>10:00-11:00</th>
+                        <td>Entornos de programacion</th>
+                        <td>Entornos de programacion</th>
+                        <td>Entornos de programacion</th>
+                        <td>Entornos de programacion</th>
+                        <td>Entornos de programacion</th>
+                    </tr>
+                    <tr>
+                        <th>11:00-12:00</th>
+                        <td>Programacion</th>
+                        <td>Programacion</th>
+                        <td>Programacion</th>
+                        <td>Programacion</th>
+                        <td>Programacion</th>
+                    </tr>
+                    <tr>
+                        <th>12:00-1:00</th>
+                        <td>Diseño de interfaz</th>
+                        <td>Diseño de interfaz</th>
+                        <td>Diseño de interfaz</th>
+                        <td>Diseño de interfaz</th>
+                        <td>Diseño de interfaz</th>
+                    </tr>
+</body>
+
+</html>

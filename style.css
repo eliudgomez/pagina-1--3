@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.formdatos{
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+    background-color: #ff006a49;
+    border-radius: 40px;
+    margin-top: 70px;
+}
+.titulo{
+font-size: 35px;
+color: rgba(0, 255, 157, 0.822);
+
+}
+.inputs{
+    padding: 40px;
+    width: 400px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    background-color: #00ffd56b;
+    border: 2px solid rgb(157, 255, 231);
+}
+.enviar{
+padding: 40px;
+padding-left: 10px;
+border-radius: 10px;
+margin-left: 150px;
+background-color: #00fff2;
+border: 2px solid rgb(2, 77, 77);
+font-family: 'Courier New', Courier, monospace*-;
+}
+
